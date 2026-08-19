@@ -214,6 +214,9 @@ data/*
 !data/example.csv
 models/*
 local.env
+!data/youtube_links.txt
+!data/youtube_videos_analyzed.json
+!data/youtube_videos.json
 
 .devcontainer/**/data
 
